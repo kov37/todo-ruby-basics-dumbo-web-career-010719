@@ -1,9 +1,9 @@
 def division(num1, num2)
- 
+ num1 / num3
 end
 
 def assign_variable(value)
-  
+  value
 end
 
 def argue
